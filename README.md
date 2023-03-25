@@ -1,5 +1,4 @@
 # Pyspark 
-***
 
 ``` python 
 
@@ -13,3 +12,25 @@ pip install requirements.txt
 Python3 Download_data.py
 
 ```
+
+> If you are using windows follow below steps install jupyter lab
+
+
+``` python 
+
+pip install jupyterlab
+
+```
+
+> And in your repo dir run following command
+
+
+``` python 
+
+pip install jupyterlab
+
+jupyter lab
+
+```
+
+> No you will see jupyter ui in your default browser
